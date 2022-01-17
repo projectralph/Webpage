@@ -1,0 +1,55 @@
+header{
+    text-align: center;
+    background-color:#284b63;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    line-height: 10px;
+  } /* sets the size, background color, and space between lines for my header */
+  
+  img{
+    border-radius: 8px;
+    margin: 18px;
+  } /* rounds out the corners for my image */
+  
+  main {
+    background-color: #edf2f4;
+    text-align: center;
+    line-height: 15px;
+  } /* centers all the paragraphs i have in my main section */
+  
+  hr{
+      width:75%;
+      margin:0 auto;
+  } /* shortens the line for my horizontal rule */
+  
+  .footer{
+    background-color: #c8d2e0;
+    color: #1E1E1E;
+    text-align: center;
+    padding: 12px;
+  } /* sets the spacing, background color, and  size of the bar for my footer */
+  
+  .wrapper{
+    width: 300px;
+    margin:auto;
+    text-align: justify;
+  } /* this class is what allows all the lines in my paragraph to have the same width */
+  
+  ol{
+    list-style-position: inside;
+    text-align: left;
+  }
+  
+  h2{
+    text-align: center;
+  } /* centers all my h2 headings */
+  
+  
+  .center{
+  width: 10%;
+  left: 0;
+  right: 0;
+  margin: auto;}
+  } /* pushes my lists to the center while keeping them left aligned */
+  
